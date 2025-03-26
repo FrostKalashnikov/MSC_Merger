@@ -8,6 +8,6 @@ Instructions for manual installation:
 
 2- with Merger downloaded, you will place it in the directory: [UE_Version]/Engine/Plugins/Marketplace/MSC_Record/AppMerger/
 
-3- in the same Merger folder, you will create a file called "MergerVersion.txt" and inside that file put the Merger Baixada version number, example: "1.2"
+3- in the same Merger folder, you will create a file called "MergerVersion.txt" and inside that file put the Merger downloaded version number: "1.2"
 
 Enjoy. ;)
